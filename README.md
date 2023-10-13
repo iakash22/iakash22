@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
-<h3 align="center">About Myself, I am Akash Kumar, a 3rd year Computer Science Engineering Student. Currently, I am persuing my B.Tech Degree from Chandigarh Group of Colleges, Jhanjeri with Punjab Technical University. As a beginner CSE Student I have learned and worked on basic programming languages like C/C++, Python, HTML, CSS And JS, . I love to Exolore new technologies.🧑‍💻 h3>
+<h3 align="center">I am Akash Kumar, a 4th year Computer Science Engineering Student. Currently, I am persuing my B.Tech Degree from Chandigarh Group of Colleges, Jhanjeri with Punjab Technical University. As a beginner CSE Student I have learned and worked on basic programming languages like C/C++, Python, HTML, CSS And JS, . I love to Exolore new technologies.🧑‍💻 h3>
   <h3 align="center">BTECH CSE STUDENT</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.IRFhWNqusUWbTsB1hQXhrQHaEI&pid=Api&P=0">
 
